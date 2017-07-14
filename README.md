@@ -41,5 +41,6 @@ cd pip-8.1.1
 cd /home/username/software/python27/bin/
 
 ./pip install selenium
+
 ./pip install bs4
 
